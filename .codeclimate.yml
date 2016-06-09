@@ -1,0 +1,6 @@
+languages:
+  Java: true
+  JavaScript: true
+exclude_paths:
+- "Maps Agenda/war/vendor"
+- "Maps Agenda/war/tests"
